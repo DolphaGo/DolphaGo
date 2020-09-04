@@ -1,4 +1,3 @@
-## DolphaGo
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/adamdoha)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adamdoha)
 [![Naver Badge](https://img.shields.io/badge/-adamdoha@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=green&link=mailto:adamdoha@naver.com)](mailto:adamdoha@naver.com)
