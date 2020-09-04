@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![DolphaGo's github stats](https://github-readme-stats.vercel.app/api?username=adamdoha)](https://github.com/adamdoha/github-readme-stats)
+![DolphaGo's github stats](https://github-readme-stats.vercel.app/api?username=adamdoha)
