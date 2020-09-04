@@ -1,8 +1,7 @@
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/adamdoha)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/adamdoha)
-[![Naver Badge](https://img.shields.io/badge/-adamdoha@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=green&link=mailto:adamdoha@naver.com)](mailto:adamdoha@naver.com)
+[![contact](https://img.shields.io/badge/-adamdoha@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:adamdoha@naver.com)](mailto:adamdoha@naver.com)
 
-#### 🌱 I’m currently learning springboot jpa
+#### 🌱 I’m currently learning Java Persistence API
 
 ![DolphaGo's github stats](https://github-readme-stats.vercel.app/api?username=adamdoha&show_icons=true&title_color=f7f307&icon_color=02b062&text_color=ffffff&bg_color=180175)
 
