@@ -2,7 +2,7 @@
 [![contact](https://img.shields.io/badge/-adamdoha@naver.com-c14438?style=flat-square&logo=Gmail&logoColor=white&color=blue&link=mailto:adamdoha@naver.com)](mailto:adamdoha@naver.com)
 
 #### 🌱 I’m currently learning Java Persistence API
-![DolphaGo's github stats](https://github-readme-stats.vercel.app/api?username=adamdoha&show_icons=true&title_color=f7f307&icon_color=02b062&text_color=ffffff&bg_color=180175)
+![DolphaGo's github stats](https://github-readme-stats.vercel.app/api?username=adamdoha&count_private=true&show_icons=true&title_color=f7f307&icon_color=02b062&text_color=ffffff&bg_color=180175)
 
 
 #### 👻 I'm constantly solving problems using algorithms.
