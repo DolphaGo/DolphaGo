@@ -6,7 +6,7 @@
 
 
 #### 👻 I'm constantly solving problems using algorithms.
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=adamdoha&)](https://solved.ac/adamdoha) 
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=adamdoha&1)](https://solved.ac/adamdoha) 
 
 **Languages and Tools:**  
 
