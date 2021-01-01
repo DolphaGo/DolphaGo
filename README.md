@@ -9,7 +9,6 @@
 #### 👻 I'm constantly solving problems using algorithms.
 <div align="left">
     <a target="_blank" href="https://www.acmicpc.net/user/adamdoha"><img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA5/MDAxNTc3MTkyNTc5Mjkx.p_Tb59oUPn3vNNRJKnSZWPTkdxywV0MRotMO8ARxFm8g.4Asj8GBetDaak_IRqUuIZirj7I52VXmA6ppxj25RI80g.PNG.occidere/boj.png?type=w773" width="34"></a>
-    <a target="_blank" href="https://github.com/adamdoha"><img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA2/MDAxNTc3MTkyNjQxMTE2.gKbaF34cMk4H7gGeNL6OO6ARFXgrxra1iSvn3DRFzAMg.TWVLm42SKE4yDn_eMTaU9BGEnU2YSbEV0pf8bHM0UjEg.PNG.occidere/GitHub-Mark-120px-plus.png?type=w773" width="34"></a>
     <a target="_blank" href="https://leetcode.com/DolphaGo/"><img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMTk3/MDAxNTc3MTg4NDQzMTIy.n_jenY3BIC-He28ImL6vn8vg0z9UYs_BRkKKPHedfc8g.a4GQ31rz_ZGbJgDI54-dxdi4H4cB4Ce0XrK628CcM-og.PNG.occidere/SE-14b86d8e-1155-4ec3-8d67-546e1ebbe9d3.png?type=w773" width="34"></a>
     <a target="_blank" href="https://blog.naver.com/adamdoha"><img src="https://postfiles.pstatic.net/MjAxOTEyMzBfMjQ3/MDAxNTc3Njg5NDIzNTM4.Bb4I_JcTmoJTw5QopVY1_2-fFosbZUPz9j35wERCsDQg._fb8TvSH60N4X1xSHHEtnn_uLKlrSHejTymmPLVXXr8g.PNG.occidere/NAVER_BLOG_LOGO.png?type=w773" width="34"></a>
 </div>
