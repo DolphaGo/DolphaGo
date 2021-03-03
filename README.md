@@ -2,7 +2,7 @@
 
 ### Serverside Engineer
 
-### Skill Stack
+### Skill Stack (Studying)
 
 - Java, Spring, JPA 
 - Kafka
