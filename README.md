@@ -1,6 +1,6 @@
-## 😀 Hello I am `DolphaGo`
+## Hi, there 🖐🏻
 
-### Serverside Engineer
+### 😀 Serverside Engineer
 
 ### Skill Stack (Studying)
 
