@@ -8,7 +8,7 @@
 - Kafka
 - Docker, Kubenetes
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamdoha&show_icons=true&&theme=highcontrast" alt="adamdoha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DolphaGo&show_icons=true&&theme=highcontrast" alt="DolphaGo" /></p>
 
 **Languages and Tools:**  
 
