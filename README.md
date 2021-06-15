@@ -4,11 +4,12 @@
 
 ### Skills of interest
 
-- Java
+- Java, typescript
 - Spring, JPA 
 - Kafka
 - Docker, Kubernetes
-- Redis, MySQL
+- Redis, MySQL, Mongo
+- Vue
 
 **Languages and Tools:**  
 
