@@ -4,7 +4,7 @@
 
 ### Skills of interest
 
-- Java, typescript
+- Java, Typescript
 - Spring, JPA 
 - Kafka
 - Docker, Kubernetes
