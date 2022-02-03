@@ -8,8 +8,6 @@ class UserDaoTest {
 
     @Test
     void test() {
-        ConnectionMaker connectionMaker =  new DConnectionMaker();
-//        ConnectionMaker connectionMaker =  new NConnectionMaker();
-        final UserDao dao = new UserDao(connectionMaker);
+        final UserDao dao = new DaoFactory().userDao();
     }
 }
