@@ -8,7 +8,6 @@ public class UserDao {
 
     public UserDao(ConnectionMaker connectionMaker) {
         this.connectionMaker = connectionMaker;
-//        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(DaoFactory.class);
     }
 
     public UserDao() {
@@ -16,4 +15,7 @@ public class UserDao {
         this.connectionMaker = context.getBean("connectionMaker", ConnectionMaker.class);
     }
 
+    public void hello() {
+        System.out.println("hello");
+    }
 }
