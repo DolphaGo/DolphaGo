@@ -1,4 +1,4 @@
-# 엘라스틱 스택 <개발부터 운영까지> 정리
+# [엘라스틱 스택 <개발부터 운영까지>](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=352833081&gclid=Cj0KCQjw6J-SBhCrARIsAH0yMZgD-JxxxQg2JQ2hsH15CtBe3ed-b9GDH13w5aJ-pCL9abYIj7XjyisaAnNlEALw_wcB) 정리
 
 ### 1장
 - [엘라스틱 스택이란](1장/엘라스틱%20스택이란.md)
@@ -7,7 +7,7 @@
 - [실습환경 구성](2장/실습환경%20구성.md)
 
 ### 3장
-- [엘라스틱 스택 구성요소](3장/엘라스틱%20스택%20구성요소.md)]
+- [엘라스틱 스택 구성요소](3장/엘라스틱%20스택%20구성요소.md)
 - [매핑](3장/매핑.md)
 - [도큐먼트](3장/도큐먼트.md)
 - [인덱스](3장/인덱스.md)
