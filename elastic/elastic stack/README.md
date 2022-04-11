@@ -1,4 +1,4 @@
-# [엘라스틱 스택 <개발부터 운영까지>](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=352833081&gclid=Cj0KCQjw6J-SBhCrARIsAH0yMZgD-JxxxQg2JQ2hsH15CtBe3ed-b9GDH13w5aJ-pCL9abYIj7XjyisaAnNlEALw_wcB) 정리
+<image src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5zDes%2FbtrbbSw0F9P%2FeLpFkegWnaQIhG509wihYK%2Fimg.jpg" width=300px> 
 
 ### 1장
 - [엘라스틱 스택이란](1장/엘라스틱%20스택이란.md)
