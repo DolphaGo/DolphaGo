@@ -23,3 +23,6 @@ kubeadm join 192.168.56.30:6443 --token b0hlcy.9xktxt2v8uezofwz --discovery-toke
 그러면 다음과 같이 kubernetes 클러스터가 완성되었다.
 
 ![](/images/2024-07-31-14-04-37.png)
+
+
+![](/images/2024-07-31-14-18-25.png).
